@@ -1,4 +1,4 @@
-IoT DoS Vulnerability Demonstrator
+#IoT DoS Vulnerability Demonstrator
 Project Title
 IoT DoS Vulnerability Demonstrator
 
