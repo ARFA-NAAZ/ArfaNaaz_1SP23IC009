@@ -4,10 +4,10 @@
 IoT DoS Vulnerability Demonstrator
 
 ## Student Name
-Shobha Sharma V
+Arfa Naaz
 
 ## USN
-1SP23IC049
+1SP23IC009
 
 ## Semester
 5th Semester – Mini Project
